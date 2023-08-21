@@ -1,0 +1,18 @@
+{
+    "name": "wpjscc/wn-json-plugin",
+    "license": "MIT",
+    "type": "winter-plugin",
+    "authors": [
+        {
+            "name": "wpjscc",
+            "email": "wpjscc@gmail.com"
+        }
+    ],
+    "autoload": {
+    },
+    "require": {
+    },
+    "extra": {
+        "installer-name": "json"
+    }
+}
